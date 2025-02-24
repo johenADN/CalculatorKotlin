@@ -1,2 +1,2 @@
-# CalculatorKotlin
+# calculatorkotlin
 MobyDev
